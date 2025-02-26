@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\services\\salesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\salesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,12 +51,44 @@
       "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\views\\salesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\salesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\views\\salesrecords\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\salesrecords\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\views\\salesrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\salesrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\services\\exceptions\\integrityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\exceptions\\integrityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\models\\viewmodel\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\viewmodel\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\services\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,52 +99,20 @@
       "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\models\\viewmodel\\sellerformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\viewmodel\\sellerformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\migrations\\20250226114506_departmentforeignkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\migrations\\20250226114506_departmentforeignkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\models\\enums\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\migrations\\saleswebmvccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\migrations\\saleswebmvccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\celio.porto\\documents\\plano de treinamento estagiarios\\davi.giovani\\curso c#\\se\u00E7\u00E3o 18 - projeto asp .net core mvc\\saleswebmvc\\saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4806BE59-1D8A-4EF2-BC39-53D7930AB8B9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -165,7 +193,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,71 +202,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SalesRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\SalesRecordService.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Services\\SalesRecordService.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\SalesRecordService.cs",
+              "RelativeToolTip": "SalesWebMVC\\Services\\SalesRecordService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwCYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:33:58.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\Seller.cs",
+              "RelativeToolTip": "SalesWebMVC\\Models\\Seller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:20:23.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\Department.cs",
+              "RelativeToolTip": "SalesWebMVC\\Models\\Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:54:15.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Edit.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Edit.cshtml",
               "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Edit.cshtml",
               "RelativeToolTip": "SalesWebMVC\\Views\\Sellers\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-26T13:26:42.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SellerService.cs",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\SellerService.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Services\\SellerService.cs",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\SellerService.cs",
-              "RelativeToolTip": "SalesWebMVC\\Services\\SellerService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAWwD4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:02:38.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SellersController.cs",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\SellersController.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\SellersController.cs",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\SellersController.cs",
-              "RelativeToolTip": "SalesWebMVC\\Controllers\\SellersController.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAADwv3QAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T18:53:31.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Create.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Create.cshtml",
               "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Create.cshtml",
               "RelativeToolTip": "SalesWebMVC\\Views\\Sellers\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwC0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAMwCkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-26T11:13:35.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Index.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Index.cshtml",
-              "RelativeToolTip": "SalesWebMVC\\Views\\Sellers\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T18:54:59.193Z",
+              "DocumentIndex": 3,
+              "Title": "SalesRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\SalesRecordsController.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\SalesRecordsController.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\SalesRecordsController.cs",
+              "RelativeToolTip": "SalesWebMVC\\Controllers\\SalesRecordsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAvwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:50:06.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DbConcurrencyException.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\Exceptions\\DbConcurrencyException.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\Exceptions\\DbConcurrencyException.cs",
@@ -251,7 +292,189 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "SalesRecord.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\SalesRecord.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs",
+              "RelativeToolTip": "SalesWebMVC\\Models\\SalesRecord.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:23:15.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SalesWebMVC\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:57:58.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SimpleSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\SimpleSearch.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\SalesRecords\\SimpleSearch.cshtml",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\SimpleSearch.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\SalesRecords\\SimpleSearch.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T17:31:02.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\SellersController.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "SalesWebMVC\\Controllers\\SellersController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAHMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:53:31.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GroupingSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\GroupingSearch.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\SalesRecords\\GroupingSearch.cshtml",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\GroupingSearch.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\SalesRecords\\GroupingSearch.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T17:31:40.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\SalesRecords\\Index.cshtml",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\SalesRecords\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T17:19:08.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Startup.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Startup.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Startup.cs",
+              "RelativeToolTip": "SalesWebMVC\\Startup.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:03:45.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "SalesWebMVC\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:56:57.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SellerService.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\SellerService.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Services\\SellerService.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\SellerService.cs",
+              "RelativeToolTip": "SalesWebMVC\\Services\\SellerService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:02:38.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IntegrityException.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\Exceptions\\IntegrityException.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Services\\Exceptions\\IntegrityException.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\Exceptions\\IntegrityException.cs",
+              "RelativeToolTip": "SalesWebMVC\\Services\\Exceptions\\IntegrityException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:07:13.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T12:32:36.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Sellers\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T18:54:59.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T13:49:59.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\ViewModel\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\ViewModel\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\ViewModel\\ErrorViewModel.cs",
+              "RelativeToolTip": "SalesWebMVC\\Models\\ViewModel\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:47:57.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\Exceptions\\NotFoundException.cs",
@@ -259,12 +482,11 @@
               "RelativeToolTip": "SalesWebMVC\\Services\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T13:17:02.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T13:17:02.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Details.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Details.cshtml",
@@ -272,51 +494,11 @@
               "RelativeToolTip": "SalesWebMVC\\Views\\Sellers\\Details.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T13:08:30.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T13:08:30.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
-              "RelativeToolTip": "SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T12:32:36.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Startup.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Startup.cs",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Startup.cs",
-              "RelativeToolTip": "SalesWebMVC\\Startup.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T15:03:45.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Services\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Services\\DepartmentService.cs",
-              "RelativeToolTip": "SalesWebMVC\\Services\\DepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T11:56:57.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "20250226114506_DepartmentForeignKey.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Migrations\\20250226114506_DepartmentForeignKey.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Migrations\\20250226114506_DepartmentForeignKey.cs",
@@ -324,12 +506,11 @@
               "RelativeToolTip": "SalesWebMVC\\Migrations\\20250226114506_DepartmentForeignKey.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T11:45:07.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T11:45:07.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "SellerFormViewModel.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\ViewModel\\SellerFormViewModel.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Models\\ViewModel\\SellerFormViewModel.cs",
@@ -337,25 +518,11 @@
               "RelativeToolTip": "SalesWebMVC\\Models\\ViewModel\\SellerFormViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:01:02.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T12:01:02.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Seller.cs",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\Seller.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\Seller.cs",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\Seller.cs",
-              "RelativeToolTip": "SalesWebMVC\\Models\\Seller.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T17:20:23.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\HomeController.cs",
@@ -367,44 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T17:16:21.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SalesRecord.cs",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\SalesRecord.cs",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs",
-              "RelativeToolTip": "SalesWebMVC\\Models\\SalesRecord.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T17:23:15.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "SalesWebMVC\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T14:57:58.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "SeedingService.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Data\\SeedingService.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Data\\SeedingService.cs",
@@ -416,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "SaleStatus.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\Enums\\SaleStatus.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Models\\Enums\\SaleStatus.cs",
@@ -428,19 +558,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
               "Title": "SalesWebMVCContext.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Data\\SalesWebMVCContext.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Data\\SalesWebMVCContext.cs",
               "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Data\\SalesWebMVCContext.cs",
               "RelativeToolTip": "SalesWebMVC\\Data\\SalesWebMVCContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T17:46:25.124Z"
+              "WhenOpened": "2025-02-25T17:46:25.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "SalesWebMVCContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Migrations\\SalesWebMVCContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Migrations\\SalesWebMVCContextModelSnapshot.cs",
@@ -448,24 +579,11 @@
               "RelativeToolTip": "SalesWebMVC\\Migrations\\SalesWebMVCContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwBoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T18:24:00.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T18:24:00.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Models\\Department.cs",
-              "RelativeToolTip": "SalesWebMVC\\Models\\Department.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCEAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T14:54:15.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
@@ -477,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "20250225175035_OtherEntities.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Migrations\\20250225175035_OtherEntities.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Migrations\\20250225175035_OtherEntities.cs",
@@ -489,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Index.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Departments\\Index.cshtml",
@@ -501,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Edit.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Departments\\Edit.cshtml",
@@ -513,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Details.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Departments\\Details.cshtml",
@@ -525,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Delete.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Departments\\Delete.cshtml",
@@ -537,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Create.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Departments\\Create.cshtml",
@@ -549,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml.g.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Departments\\Index.cshtml.g.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Departments\\Index.cshtml.g.cs",
@@ -561,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "Edit.cshtml.g.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Departments\\Edit.cshtml.g.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Departments\\Edit.cshtml.g.cs",
@@ -573,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "Details.cshtml.g.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Departments\\Details.cshtml.g.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Departments\\Details.cshtml.g.cs",
@@ -585,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "Delete.cshtml.g.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Departments\\Delete.cshtml.g.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Departments\\Delete.cshtml.g.cs",
@@ -597,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "Create.cshtml.g.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Departments\\Create.cshtml.g.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Departments\\Create.cshtml.g.cs",
@@ -609,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -621,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "20250225170339_Initial.cs",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\Migrations\\20250225170339_Initial.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Migrations\\20250225170339_Initial.cs",
@@ -633,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "SalesWebMVC.csproj",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
               "RelativeDocumentMoniker": "SalesWebMVC\\SalesWebMVC.csproj",
@@ -645,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\celio.porto\\Documents\\Plano de treinamento estagiarios\\davi.giovani\\Curso C#\\Se\u00E7\u00E3o 18 - Projeto ASP .NET Core MVC\\SalesWebMVC\\SalesWebMVC\\appsettings.json",
               "RelativeDocumentMoniker": "SalesWebMVC\\appsettings.json",
