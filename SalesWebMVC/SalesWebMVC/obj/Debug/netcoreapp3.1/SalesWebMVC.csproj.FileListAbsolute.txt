@@ -165,3 +165,6 @@ C:\Users\celio.porto\Documents\Plano de treinamento estagiarios\davi.giovani\Cur
 C:\Users\celio.porto\Documents\Plano de treinamento estagiarios\davi.giovani\Curso C#\Seção 18 - Projeto ASP .NET Core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\celio.porto\Documents\Plano de treinamento estagiarios\davi.giovani\Curso C#\Seção 18 - Projeto ASP .NET Core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\Users\celio.porto\Documents\Plano de treinamento estagiarios\davi.giovani\Curso C#\Seção 18 - Projeto ASP .NET Core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\celio.porto\Documents\Plano de treinamento estagiarios\davi.giovani\Curso C#\Seção 18 - Projeto ASP .NET Core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\celio.porto\Documents\Plano de treinamento estagiarios\davi.giovani\Curso C#\Seção 18 - Projeto ASP .NET Core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+C:\Users\celio.porto\Documents\Plano de treinamento estagiarios\davi.giovani\Curso C#\Seção 18 - Projeto ASP .NET Core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
